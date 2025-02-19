@@ -1,0 +1,21 @@
+HTML
+iframe // main.js 609
+header, footer, section, nav (ul, li)
+link type icon
+
+CSS // style.css
+Font-Family
+Header Position Sticky
+Movie Cards Flex
+Animation Rotate and Scale BG // 178
+Border
+Background Image
+Webkit Line Clamp // 278
+Responsive @media query
+
+JS
+Object Array // HUGE Part of this mini-project
+sorting, push, contains, includes
+innerHTML
+classList
+urlParams
