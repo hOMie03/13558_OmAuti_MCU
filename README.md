@@ -5,8 +5,8 @@
 </div>
 <div>
   <h1>Screenshots</h1>
-  <img src="https://github.com/hOMie03/13558_OmAuti_MCU/blob/main/Resources/snapshots/Screenshot%20(1).png" width="450">
-  <img src="https://github.com/hOMie03/13558_OmAuti_MCU/blob/main/Resources/snapshots/Screenshot%20(2).png" width="450">
+  <img src="https://github.com/hOMie03/13558_OmAuti_MCU/blob/main/Resources/snapshots/Screenshot%20(1).png">
+  <img src="https://github.com/hOMie03/13558_OmAuti_MCU/blob/main/Resources/snapshots/Screenshot%20(2).png">
   <br/><br/>
   <img src="https://github.com/hOMie03/13558_OmAuti_MCU/blob/main/Resources/snapshots/Screenshot%20(3).png">
 </div>
